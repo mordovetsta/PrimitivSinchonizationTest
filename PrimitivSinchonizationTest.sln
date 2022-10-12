@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitivSinchonizationTest", "PrimitivSinchonizationTest\PrimitivSinchonizationTest.csproj", "{A818C5E7-DDD3-4EA5-80FF-EF71A6C52871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A818C5E7-DDD3-4EA5-80FF-EF71A6C52871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A818C5E7-DDD3-4EA5-80FF-EF71A6C52871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A818C5E7-DDD3-4EA5-80FF-EF71A6C52871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A818C5E7-DDD3-4EA5-80FF-EF71A6C52871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235B2655-FD5A-44C0-A013-F81F3C212546}
+	EndGlobalSection
+EndGlobal
